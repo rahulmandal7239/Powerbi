@@ -1,6 +1,5 @@
-# Powerbi Sales Dashboard According To state
 # You can view state- or quarterly-specific reports in this project.
-# Also Some Meaningfull Insights Like :-
+Also Some Meaningfull Insights Like :-
 1) Profit By Month
 2) Profit By Sub Categories
 3) Profit By State
